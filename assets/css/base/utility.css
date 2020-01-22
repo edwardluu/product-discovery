@@ -1,0 +1,6 @@
+button:focus, input:focus, optgroup:focus, select:focus, textarea:focus { 
+    outline: none;
+}
+button:hover, input:hover, optgroup:hover, select:hover, textarea:hover  {
+    cursor: pointer;
+}
