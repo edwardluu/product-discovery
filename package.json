@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.9.3",
     "element-ui": "^2.13.0",
     "jquery": "^3.4.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-infinite-loading": "^2.4.4",
     "vue-slick": "^1.1.15",
     "vue-slick-carousel": "^1.0.0"
